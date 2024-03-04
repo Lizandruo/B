@@ -38,6 +38,14 @@ El análisis de datos en el sector automotriz ha ganado una importancia crecient
 Es un entorno de desarrollo integrado (IDE) para el lenguaje de programación R. Permite escribir, depurar y ejecutar código de R de manera eficiente. Es una herramienta muy popular entre los científicos de datos y los analistas estadísticos debido a sus características como la edición de código, la visualización de datos, la integración con git y la generación de informes reproducibles.
 ![Imagen](https://www.arsys.es/blog/file/uploads/2020/10/featured-rstudio-1.jpg)
 
+### Objetivos Generales.
+
+1. **Identificar Tendencias del Mercado:** Analizar el dataset para revelar patrones de demanda, marcas populares y preferencias de los consumidores en el mercado automotriz estadounidense.
+
+2. **Evaluar Rendimiento de Marcas y Modelos:** Examinar la depreciación, satisfacción del cliente y durabilidad de diferentes marcas y modelos para informar decisiones estratégicas de compra y venta.
+
+3. **Pronóstico de Precios:** Desarrollar un modelo predictivo para estimar precios de vehículos usados basados en variables como marca, modelo, año y características, facilitando decisiones de fijación de precios.
+
 
 ### Bibliotecas Utilizadas
 
