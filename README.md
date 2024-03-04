@@ -127,7 +127,7 @@ poligonoFrecuencia <- function(vector){
 
 ```javascript
 
-graficoPastelPrecio <- function(vector){
+graficoPastel <- function(vector){
   pie(vector)
 }
 
